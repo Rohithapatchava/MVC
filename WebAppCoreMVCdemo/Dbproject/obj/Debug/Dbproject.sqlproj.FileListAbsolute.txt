@@ -1,0 +1,10 @@
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\bin\Debug\Dbproject.dacpac
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\bin\Debug\Dbproject.dll
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\bin\Debug\Dbproject.pdb
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\Dbproject.sqlprojAssemblyReference.cache
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\Model.xml
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\refactor.xml
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\postdeploy.sql
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\predeploy.sql
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\Dbproject.dll
+D:\Rohitha\MVC\WebAppCoreMVCdemo\Dbproject\obj\Debug\Dbproject.pdb
